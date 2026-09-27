@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Capsule Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:8B5CF6&height=180&section=header&text=Modern%20UI%20Design%20System&fontSize=42&animation=twinkling&desc=Responsive%20React.js%20%26%20Tailwind%20CSS%20Landing%20Page)
+  ![Capsule Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:8B5CF6&height=180&section=header&text=Modern%20UI%20Design%20System&fontSize=42&animation=twinkling&desc=Responsive%20React.js%20and%20Tailwind%20CSS%20Landing%20Page)
 
   <br/>
 
